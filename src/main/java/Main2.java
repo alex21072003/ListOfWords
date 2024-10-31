@@ -14,5 +14,6 @@ public class Main2 {
             }
         }
         uniqNewWords.forEach(System.out::println);
+        System.out.println("my first commit");
     }
 }
